@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'planvacacionalv2.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'planvver2',
+        'NAME': '',
         'HOST': 'localhost',
-        'USER': 'postgres',
-        'PASSWORD': 'Z4dk13l2017**',
+        'USER': '',
+        'PASSWORD': '',
     }
 }
 
